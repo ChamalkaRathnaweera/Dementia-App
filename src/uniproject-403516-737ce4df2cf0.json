@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uniproject-403516",
+  "private_key_id": "737ce4df2cf0e9bcf0409ecb298a04b86086eb2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSs76lGrvgcs2W\nNPu0F7N4Q8hPQVRhTHKtxjeV46WaQLGZg0aFjByQnUogDu5kEfD6FCdxvx4czgP8\nd0bBU6rxcT2N4QxU3R/kuCbPH+Vij5yhlqGCJbSUIl2wuOwZzb2wPSlihjwrCWtA\nr4mcHq6zvG7dQlHGu/c2l520VDlG38BTKswM45hwyXpRvXFMLUGw7i1x2yWSBw0c\nfRKTaNv+XLHI6inwjqDSpHf/1yqPt3oqjj+WjrLrsZVvJyF9aAz5Lhb1va0KiOCA\nxTkRZLbjavdZ3R685Z7HYBFjLZSBfT3drt4cNnDnLVAWZtvHKOVba51JbyzvusX9\nG29xmiCtAgMBAAECggEACCguZYfDAovfmoZ/qFfZBsreDGoZgv95MOhgltj9kEIg\nneSKu0o7HF9ii73Iy4+j0oPkXZK+3eMmnZcUPBOm4Z3mSklFIkLZTyJeJg4j9wL9\nNo7llBL8o2/1vanKlvS1o2MDNhM4rTvs1r/r6t5Z4GyNzYeufFpfOI3dmvVD6gjZ\nW2jVSWDdJzWGtqTQYMIuX8erVW38OTyc3A06VOoeW5xEJVaEAUaRnK8vc+CCuSv8\nRqcdjuXSkdcML4wQ9cU3MECm0qtJiIHOXynqe6tK7Z0D8M5sy7oUYri3++Cdsp/j\nAyZYX0JNMl25pk6QChvaaOEP4qeMkDiIJJcvFl5SkQKBgQDJnYf4JXRT3aiPNn95\naeDaNjjFbeQQtf1oi/ybJEIw3cY3ih2exHOseHHpSPNlCN10HQURzMDjatJebnv5\n+y9R8xyrZzIDNEa8T4vItfnQ9/OMlJrK5TpPa/rIkUK9XosV7wFNlZ+1zQYujMHr\nbVm+i3bu9+LaRZ7ckn4qGwQFAwKBgQC6RjPHqk3uTLAZLhpZSK/xUUGxSChsTul1\n3sHGP1kFNcKc+lOdc9zt8Qs022xw0xiWTn3sc9vCCeQhdqzOBL0E039cJiSEwhJy\nzpHXYFna5ZG5C1hqLA0X8Rio4ix8bHWNucC08b8qDd05a9ejBqNHE7dd+DoKvfvZ\n4c9QMEUcjwKBgQCxezeivnX1Df/Acp0s6IPEFE9NnTtTaqG1UuYAPJ74HYLMiY0h\nopahkTXVwx5gJrmr6Y/452I10Gd4MZJ5sSEq5vSp/qIMKAzM4MmQ2oEb7+o6KudJ\nDRmTqN6PiTBTO9L8b/WZsslxZRa4C7j54r1J+8OrAhR1SSxbx6nArx+OuQKBgF9J\njDFmYCk315l56QalVUOX8ofyxqLpFyoxwmRcgXhV0PEmaOGRpIGfncDzQhzRD7HM\nA0SS2+b90lJ/99QHvn2ah3snE+VJtdA+9YH8itqcNxg2worFcAlATwINeP5JKTVP\nwVGOnOCxaOp3zT5bJek1H8cVNPPLzereRYPavW/nAoGATS2q9wnkJjNY02RNl9kC\n1mJp2SJ6tiHeW2oD4GOSAVQZHIkqol2OFgglRgNab6wvTm/UC4TkXB3QeqJ9ejeC\ncGPJxATXeP8d4ltZZs2LwFalOw1iDA4vjhBPBc355Scyqky5v/hHxL8eIZdJqMat\nhNn0P9TdbxCMYi8BIsPtHJU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cognition-tracer@uniproject-403516.iam.gserviceaccount.com",
+  "client_id": "103822783422810797682",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cognition-tracer%40uniproject-403516.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
