@@ -605,7 +605,7 @@ const Question = ({ route }) => {
       let { latitude, longitude } = location.coords;
 
       const response = await fetch(
-        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=AIzaSyCbWTf_Ko8bggkMJ3C-mDJqC8P5Fd9GLMM`
+        `https://maps.googleapis.com/maps/api/geocode/json?latlng=${latitude},${longitude}&key=yourkey`
       );
       const data = await response.json();
       console.log(data);
